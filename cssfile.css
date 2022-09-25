@@ -11,6 +11,7 @@ h1 {
 p.about {
     color: black;
     font-size: 50px;
+    text-align: center;
 }
 
 p.aboutform {

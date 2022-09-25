@@ -1,0 +1,26 @@
+body {
+    max-width: 100%;
+}
+
+h1 {
+    color: black;
+    text-align: center;
+    font-size: 50px;
+}
+
+p.about {
+    color: black;
+    font-size: 30px;
+}
+
+p.aboutform {
+    color: black;
+    font-size: 23px;
+}
+
+a.links {
+    text-decoration: none;
+    color: black;
+    font-size: 30px;
+    text-align: center;
+}

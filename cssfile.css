@@ -29,6 +29,7 @@ a.links {
 }
 
 img.img {
+    maergin-top:20px;
     align-items: center;
     display: block;
     margin-left: auto;

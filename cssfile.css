@@ -10,8 +10,10 @@ h1 {
 
 p.about {
     color: black;
-    font-size: 50px;
-    text-align: center;
+    font-size: 20px;
+    width: 95%;
+    margin-left: 1.5%;
+    margin-right: 1.5%;
 }
 
 p.aboutform {
@@ -24,4 +26,12 @@ a.links {
     color: black;
     font-size: 30px;
     text-align: center;
+}
+
+img.img {
+    align-items: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35%;
 }

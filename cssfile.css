@@ -10,6 +10,7 @@ h1 {
     margin-left: 2%;
     align: left;
     font-family: Arial, Helvetica, sans-serif;
+    line-height: 200%%;
 }
 
 h1.head1 {
@@ -28,7 +29,7 @@ p.about {
     width: 95%;
     margin-left: 2%;
     margin-right: 1.5%;
-    line-height: 25px;
+    line-height: 150%;
 }
 
 p.aboutform {
